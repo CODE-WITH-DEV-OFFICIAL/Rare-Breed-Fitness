@@ -1,12 +1,10 @@
 
 # RARE-BREED-FITNESS | NAKHARA
 
-Title: "Rare-Breed-Fitness"
-
-Description:
+# Description:
 Welcome to Rare-Breed-Fitness, the premier online destination for fitness enthusiasts of all levels! Our website, Rare-Breed-Fitness, is a comprehensive platform designed to inspire, motivate, and guide individuals on their fitness journey. Whether you're a seasoned athlete or just starting out, Rare-Breed-Fitness offers a wide range of resources to help you achieve your health and wellness goals.
 
-Key Features:
+# Key Features:
 
 1. Personalized Fitness Plans: Rare-Breed-Fitness understands that every body is unique. We provide personalized fitness plans tailored to your specific needs, goals, and fitness level. Through our intuitive interface, users can create customized workout routines, track progress, and receive real-time feedback.
 
@@ -25,22 +23,31 @@ Key Features:
 
 ## Screenshots📸
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/D-4-DIBAKAR/Rare-Breed-Fitness/assets/71878062/c384d067-1aee-432d-bf89-c3ff8808b682)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/D-4-DIBAKAR/Rare-Breed-Fitness/assets/71878062/ec7e734b-dc67-4df2-b298-7a9a85763336)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/D-4-DIBAKAR/Rare-Breed-Fitness/assets/71878062/fa0e3637-cead-42ca-9ec4-e5279e9a8d21)
+
+![App Screenshot](https://github.com/D-4-DIBAKAR/Rare-Breed-Fitness/assets/71878062/93287e27-04a6-4fda-8d68-a3bea5e09c4b)
+
+![App Screenshot](https://github.com/D-4-DIBAKAR/Rare-Breed-Fitness/assets/71878062/b9ec4a87-8610-41e1-b296-fdfe9cabe6ed)
+
+![App Screenshot](https://github.com/D-4-DIBAKAR/Rare-Breed-Fitness/assets/71878062/cce76b6e-d8e3-4f53-830c-0205b01e4bcb)
+
+![App Screenshot](https://github.com/D-4-DIBAKAR/Rare-Breed-Fitness/assets/71878062/8c2a6588-5c99-4f10-8dca-8eba493a60a6)
 
 
-## Live at :
-https://d-4-dibakar.github.io/Rare-Breed-Fitness
+
+# Live at : 
+  https://d-4-dibakar.github.io/Rare-Breed-Fitness
 
 
-## 🛠 Skills
-`HTML` `CSS` `BootStrap` `Javascript` `Fontawesome` `Carousel`  etc.
+# 🛠 Skills
+  `HTML` `CSS` `BootStrap` `Javascript` `Fontawesome` `Carousel`  etc.
 
 
-## Authors
+# Authors
 
-- [@ D-4-DIBAKAR](https://github.com/D-4-DIBAKAR)
+  [@ D-4-DIBAKAR](https://github.com/D-4-DIBAKAR)
 
